@@ -7,7 +7,7 @@ A sleek, modern, and minimalist counter application built with HTML, CSS, and Ja
 ## 📱 Interface Preview
 
 <p align="center">
-  <img src="./gipreview.png" alt="SwiftCount Preview" width="300" style="border-radius: 12px;">
+  <img src="./preview.png" alt="SwiftCount Preview" width="300" style="border-radius: 12px;">
 </p>
 
 ---
